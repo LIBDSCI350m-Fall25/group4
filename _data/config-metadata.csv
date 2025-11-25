@@ -3,6 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+resource_type,Resource Type,
 subject,Subjects,true
 location,Location
 latitude,Latitude
@@ -13,3 +14,5 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+access_restrictions,Access Restrictions,
+cataloger,Cataloger
