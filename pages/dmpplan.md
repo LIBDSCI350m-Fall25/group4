@@ -41,23 +41,16 @@ Our data collection primarily came from GLAMS, including the oregon digital repo
 
 The digital objects have been collected by Daniel Johnson, Ava Nepple, Adaleah Carman, and Ashna Rajbhandari from multiple publicly accessible online repositories. The objects collected have copyright and licensing that allows for educational use and redistribution. The items have been cataloged according to a file naming convention which will be explained below in  an accessible document at the bottom of this paragraph. Our Metadata Application Profile is also linked underneath this section. All the data employed in our collection is available through our group Sharepoint and Google Drive which contains both the raw and converted files as well as our metadata spreadsheet. The objects have been cited and can be traced back to their original repositories if viewers wish to engage with material further and delve into other collections and repositories.   
 
-**File convention naming document:** 
+
 [File Naming Conventions](objects/Group 4 File Naming Conventions.pdf)
 
 
-[Metadata Application Profile.](https://github.com/LIBDSCI350m-Fall25/group4/blob/main/objects/DSCI%20LIB%20305m%20Fall%202025%20-%20Metadata%20Application%20Profile%20Guidelines%20for%20DSCI_LIB%20350m%20Fall%202025.pdf)
+[Metadata Application Profile.](objects/DSCI LIB 305m Fall 2025 - Metadata Application Profile Guidelines for DSCI_LIB 350m Fall 2025.pdf)
 
 **Legal & Ethical Restrictions**: We do not see any legal or ethical reasons impacting the accessibility of our repository. All the items chosen have been granted access for educational use and redistribution following the proper citation. Nearly all of the objects being employed within our collection currently have been accessed through other various public repositories and collections. There is no data that is at risk of being privatized in this collection.  
 
-**Aggregated & Shared Data**: All digital objects included in this collection will be available to download through Collection Builder website which is linked at the bottom of this page. All information regarding rights and creative commons will be included under the objects metadata on the items page within Collection Builder. 
-
 **Period of Data Retention**: All data collected will be displayed on our Collection Builder site and will be accessible at all times. 
 
-**Data Formats and Dissemination**:This collection has been compiled with the intention of educational and recreational knowledge use. We expect a wide range of users to be accessing our database. For this reason we’ve chosen to use JPEG and PDF files for users to access the objects. The decision to use these file formats is due to the compatibility across various computer operating systems, ensuring broad accessibility to the public. Our metadata is stored in a computer readable CSV file within our github that allows the information to be displayed alongside our objects. All copyright and creative commons information will be available through the metadata provided alongside each object. The rights statements describe the accessibility of each object and how they’re legally allowed to be used. Any questions regarding the legality and security restriction of the objects shared through our collection will be accessible through our metadata. Our collection is for educational purposes and created with no intention of monetary gain. 
+**Data Formats and Dissemination**:This collection has been compiled with the intention of educational and recreational knowledge use. We expect a wide range of users to be accessing our database. Our metadata is stored in a computer readable CSV file within our github that allows the information to be displayed alongside our objects. All copyright and creative commons information will be available through the metadata provided alongside each object. The rights statements describe the accessibility of each object and how they’re legally allowed to be used. Any questions regarding the legality and security restriction of the objects shared through our collection will be accessible through our metadata. Our collection is for educational purposes and created with no intention of monetary gain. 
 
-**Data Storage and Preservation of Access**: The data included in this collection will be stored in the github repository and available through the Collection Builder website. Individual copies and backups of the data will be stored within our teams Sharepoint and Google Drive which require special access. These data sites would be available to anyone who chose to enter the team or wanted to continue the project after Michell Martinez, Riley Bair, Kaitlin McKay, and Amanda Hellenkamp deem their collection complete. 
-
-**Appendix**
-Metadata Application Profile: Available in our GitHub repository: Group 2 MAP 
-
-File Naming Conventions: Available in out GitHub repository: Ground 2 File Naming Conventions
+**Data Storage and Preservation of Access**: The data included in this collection will be stored in the github repository and available through the Collection Builder website. 
