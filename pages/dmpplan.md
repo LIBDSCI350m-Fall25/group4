@@ -35,27 +35,17 @@ Our data collection primarily came from GLAMS, including the oregon digital repo
 
 **Expected Data**
 
-**Data Types**: There are 26 items in this digital collection. 12 text documents (.pdf), 13 images (.jpeg), and 1 youtube video linked. The total size of the collection’s data is 100.4 MB as of March 2024  
-
-| Work Type | File Format | Total Assets | Average File Size | Total Size of All Files |
-|--------------|-------------|--------------|-------------------|----------------------|
-| Image        | .jpeg       | 13           | 0.25 MB           | 3.3 MB               |
-| Document     | .pdf        | 12           | 8.09 MB           | 97.1 MB              |
-| Youtube Vid  | N/A         | 1            | N/A               | N/A                  |
+**Data Types**: There are 20 items in this digital collection, with each file being either of the .jpg or .jpeg file types, to ensure we did no exceed size limitations. 
 
 **Data Handling**
 
-The digital objects have been collected by Riley Bair, Michell Martinez, Kaitlin McKay, and Amanda Hellenkamp from multiple publicly accessible online repositories. The objects collected have copyright and licensing that allows for educational use and redistribution. The items have been cataloged according to a file naming convention which will be explained below in text and an accessible document at the bottom of this page. All the data employed in our collection is available through our group Sharepoint and Google Drive which contains both the raw and converted files as well as our metadata spreadsheet. The objects have been cited and can be traced back to their original repositories if viewers wish to engage with material further and delve into other collections and repositories.   
+The digital objects have been collected by Daniel Johnson, Ava Nepple, Adaleah Carman, and Ashna Rajbhandari from multiple publicly accessible online repositories. The objects collected have copyright and licensing that allows for educational use and redistribution. The items have been cataloged according to a file naming convention which will be explained below in  an accessible document at the bottom of this paragraph. Our Metadata Application Profile is also linked underneath this section. All the data employed in our collection is available through our group Sharepoint and Google Drive which contains both the raw and converted files as well as our metadata spreadsheet. The objects have been cited and can be traced back to their original repositories if viewers wish to engage with material further and delve into other collections and repositories.   
 
-**File Naming Convention**: All file names must adhere to this naming convention to ensure ease of access and organization amongst data
-**Convention**: histoftrktwn_year_titleofobject_itemnumber.extension  
-**File Naming Convention Defined**:  
-**histoftrktwn**: history of track town  year: year it was made  
-**titleofobject**: very short keywords: 4 characters  
-*Bill Bowerman*= BBOW, *Prefontaine*= PFON, *Hayward Field*= HWYF, *Emerald*= DEMD
-*Bill hayward*= BHAY, *Phil Knight*= PKNI, *Olympic Track Meet* = OTRK,  
-**Number**: Three-digit number starting with 001 for every image. If more than one image with a similar filename exists, apply a numerically ordered sequence   
-**File Naming Convention in Practice**: histotrktwn_1947_demd_015.pdf  
+**File convention naming document:** 
+
+
+**Metadata Application Profile:**
+[This is a link to my metadata application profile.](https://github.com/LIBDSCI350m-Fall25/group4/blob/main/objects/DSCI%20LIB%20305m%20Fall%202025%20-%20Metadata%20Application%20Profile%20Guidelines%20for%20DSCI_LIB%20350m%20Fall%202025.pdf)
 
 **Legal & Ethical Restrictions**: We do not see any legal or ethical reasons impacting the accessibility of our repository. All the items chosen have been granted access for educational use and redistribution following the proper citation. Nearly all of the objects being employed within our collection currently have been accessed through other various public repositories and collections. There is no data that is at risk of being privatized in this collection.  
 
