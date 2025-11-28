@@ -42,10 +42,10 @@ Our data collection primarily came from GLAMS, including the oregon digital repo
 The digital objects have been collected by Daniel Johnson, Ava Nepple, Adaleah Carman, and Ashna Rajbhandari from multiple publicly accessible online repositories. The objects collected have copyright and licensing that allows for educational use and redistribution. The items have been cataloged according to a file naming convention which will be explained below in  an accessible document at the bottom of this paragraph. Our Metadata Application Profile is also linked underneath this section. All the data employed in our collection is available through our group Sharepoint and Google Drive which contains both the raw and converted files as well as our metadata spreadsheet. The objects have been cited and can be traced back to their original repositories if viewers wish to engage with material further and delve into other collections and repositories.   
 
 **File convention naming document:** 
+[File Naming Conventions](objects/Group 4 File Naming Conventions.pdf)
 
 
-**Metadata Application Profile:**
-[This is a link to my metadata application profile.](https://github.com/LIBDSCI350m-Fall25/group4/blob/main/objects/DSCI%20LIB%20305m%20Fall%202025%20-%20Metadata%20Application%20Profile%20Guidelines%20for%20DSCI_LIB%20350m%20Fall%202025.pdf)
+[Metadata Application Profile.](https://github.com/LIBDSCI350m-Fall25/group4/blob/main/objects/DSCI%20LIB%20305m%20Fall%202025%20-%20Metadata%20Application%20Profile%20Guidelines%20for%20DSCI_LIB%20350m%20Fall%202025.pdf)
 
 **Legal & Ethical Restrictions**: We do not see any legal or ethical reasons impacting the accessibility of our repository. All the items chosen have been granted access for educational use and redistribution following the proper citation. Nearly all of the objects being employed within our collection currently have been accessed through other various public repositories and collections. There is no data that is at risk of being privatized in this collection.  
 
