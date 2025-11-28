@@ -45,7 +45,7 @@ The digital objects have been collected by Daniel Johnson, Ava Nepple, Adaleah C
 [File Naming Conventions](objects/Group 4 File Naming Conventions.pdf)
 
 
-[Metadata Application Profile.](objects/DSCI LIB 305m Fall 2025 - Metadata Application Profile Guidelines for DSCI_LIB 350m Fall 2025.pdf)
+[Metadata Application Profile.](objects/Metadata Application Profile - Group 4, DSCI LIB 305m Fall 2025.pdf)
 
 **Legal & Ethical Restrictions**: We do not see any legal or ethical reasons impacting the accessibility of our repository. All the items chosen have been granted access for educational use and redistribution following the proper citation. Nearly all of the objects being employed within our collection currently have been accessed through other various public repositories and collections. There is no data that is at risk of being privatized in this collection.  
 
