@@ -26,3 +26,15 @@ With an everchanging political climate dominating so much of people's lives, it 
 **Daniel Johnson**, *Object Preservation Manager*: As Object Preservation Manager, Danny oversaw the organization of the project’s files and ensured that digital objects were stored, named, and formatted according to preservation best practices. He managed the Google Drive folder structure, coordinated how objects were added, and ensured that backups existed for all materials. Danny also set file requirements for the collection and decided which objects met the technical standards needed for CollectionBuilder.
 
 **Ava Nepple**, *Metadata Manager*: As Metadata Manager, Ava led the cataloging of all objects and ensured that metadata followed Dublin Core, CollectionBuilder, and any group-specific standards. She maintained the master metadata spreadsheet and standardized data entry for consistency and accuracy across the collection. Ava also performed metadata quality reviews and made final decisions about how each object was described.
+
+**DSCI/Lib 350M,** Humanities Research Data Management, Fall Term 2025
+
+**Instructor,** Kate Thornhill
+
+**GLAMS Used**
+- Oregon Digital
+- University of British Columbia Digital Libraries
+- San Jose State University, Special Collections and Archives
+- UCLA Library Digital Collections
+
+**Ownership,** We do not own anything in this collection, all objects in copyright are owned by their respective copyright holders. 
