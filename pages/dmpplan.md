@@ -11,7 +11,7 @@ credits: true
 
 ## Group 4  
 
-*DSCI/LIB 350, Fall 2025
+### DSCI/LIB 350, Fall 2025
 
 *Team Members: Daniel Johnson, Ava Nepple, Ashna Rajbhandari, Adaleah Carman* 
 
