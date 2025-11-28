@@ -15,8 +15,7 @@ credits: true
 ## About the Collection
 
 **Description**:
-
-
+With an everchanging political climate dominating so much of people's lives, it has always been important to document the history of societal reaction to political happenings. In this collection, we portray the important connection between students and protest movements in response to government action in the United States. As an often overlooked group, we felt it was important to document the role that students and young people have played in protest movements, and understand what this often manifests itself as. This collection includes images of protests, rallys, public speakers, buttons, and posters that come from political protests on West Coast United States university campuses. We chose the time period containing the Vietnam war because its recency allowed us to find a variety of resources, while still providing a lot of content from a time of extreme political turmoil in the United States. We hope that this collection can provide insight into what actions younger people and students took during this controvertial time, and what a protest might look like during this time. 
 
 **Roles & Responsibilities**: 
 
