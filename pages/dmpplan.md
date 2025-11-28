@@ -7,16 +7,15 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---  
+# Data Management Plan
 
-*Data Management Plan* 
+## Group 4  
 
-*DSCI/LIB 400 — CRN 26155*: *Winter 2024* 
+*DSCI/LIB 350, Fall 2025
 
-*Track Town Eugene, OR* 
+*Team Members: Daniel Johnson, Ava Nepple, Ashna Rajbhandari, Adaleah Carman* 
 
-*Team Members: Riley Bair, Michell Martinez, Kaitlin McKay, Amanda Hellenkamp* 
-
-**Track Town Eugene, OR**
+**Vietnam War Protests on College Campuses**
 
 Our digital collection thematic research topic is focused on Eugene, Oregon’s transformation into Track Town USA. We told this story through data spanning over 100 years, detailing the come up of Hayward field and the characters that cultivated the culture that ultimately became Track Town. You’ll see a lot of Steve Prefontaine, Bill Bowerman, Bill Hayward, and more faces that shaped what we get to call Track Town today. By collecting these objects we hope to provide a collection accessible to those just as curious as we were to engage with the past and how it brought us to the campus we live on today.  
 
