@@ -14,14 +14,16 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+**Description**:
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+**Roles & Responsibilities**: 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+**Ashna Rajbhandari**, *Project Manager*: As Project Manager, Ashna oversaw all project activities and ensured clear communication within the team and with the course instructor. She led the development of major deliverables,including the progress report, data management plan, documentation, and final presentation, and coordinated quality reviews. Ashna was also responsible for organizing the shared workspace, submitting assignments, and ensuring that meeting notes were properly documented and stored.
+
+**Adaleah Carman**, *Collection Development Manager*: As Collection Development Manager, Adaleah approved the 20–30 objects that made up the digital collection. She led research on the topic and defined the scope while ensuring all copyright and licensing information was accurately recorded. She also collaborated with the preservation team to confirm that selected files met format and quality standards.
+
+**Daniel Johnson**, *Object Preservation Manager*: As Object Preservation Manager, Danny oversaw the organization of the project’s files and ensured that digital objects were stored, named, and formatted according to preservation best practices. He managed the Google Drive folder structure, coordinated how objects were added, and ensured that backups existed for all materials. Danny also set file requirements for the collection and decided which objects met the technical standards needed for CollectionBuilder.
+
+**Ava Nepple**, *Metadata Manager*: As Metadata Manager, Ava led the cataloging of all objects and ensured that metadata followed Dublin Core, CollectionBuilder, and any group-specific standards. She maintained the master metadata spreadsheet and standardized data entry for consistency and accuracy across the collection. Ava also performed metadata quality reviews and made final decisions about how each object was described.
