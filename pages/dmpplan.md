@@ -35,7 +35,7 @@ Daniel Johnson: Object Preservation Manager: As Object Preservation Manager, Dan
 Ava Nepple: Metadata Manager: As Metadata Manager, Ava led the cataloging of all objects and ensured that metadata followed Dublin Core, CollectionBuilder, and any group-specific standards. She maintained the master metadata spreadsheet and standardized data entry for consistency and accuracy across the collection. Ava also performed metadata quality reviews and made final decisions about how each object was described.
 
 
-**Anticipated Data**
+**Anticipated Data:**
 
 **Formats and size:** In total we have 20 objects in this collection, all of which are stored as jpg/jpeg files, and take up 56.6 MB of disc space all together.
 
@@ -79,5 +79,3 @@ Most of the objects we collected were in the public domain, however we did need 
 [Metadata Application Profile.](objects/Metadata Application Profile - Group 4 DSCI LIB 305m Fall 2025.pdf)
 
 
-
-**Data Storage and Preservation of Access**: The data included in this collection will be stored in the github repository and available through the Collection Builder website. 
