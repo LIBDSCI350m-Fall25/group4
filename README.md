@@ -1,16 +1,6 @@
 # LIB 400M: Humanities Data Management, Winter 2024 
 ## Course Description
-This course provides students with theoretical and practical experience in collecting,
-processing, archiving, and publishing humanities data (images, video, sound, text,
-maps, etc.) gathered from galleries, libraries, archives, and museums (GLAMs). With
-the goal of building thematic digital collections as researchers, students will learn digital
-methodologies focusing on the technical, legal, ethical, and social aspects of working
-with humanities research data throughout its curation lifecycle. This includes hands-on
-experience finding, assessing, organizing, and reformatting data; creating and
-remediating descriptive metadata; evaluating and determining copyright and licensing;
-writing a data management plan using the standards set by the National Endowment for
-the Humanities, and sharing thematic research digital collections using GitHub and the
-open source platform CollectionBuilder.
+This course provides students with theoretical and practical experience in collecting, processing, archiving, and publishing humanities data (images, video, sound, text, maps, etc.) gathered from galleries, libraries, archives, and museums (GLAMs). With the goal of building thematic digital collections as researchers, students will learn digital methodologies focusing on the technical, legal, ethical, and social aspects of working with humanities research data throughout its curation lifecycle. This includes hands-on experience finding, assessing, organizing, and reformatting data; creating and remediating descriptive metadata; evaluating and determining copyright and licensing; writing a data management plan using the standards set by the National Endowment for the Humanities, and sharing thematic research digital collections using GitHub and the open-source platform CollectionBuilder. 
 (Taken from syllabus)
 
 ## Repository Creators
